@@ -1,4 +1,5 @@
 
+
 This repo here will enhance any low-resolution video. 
 
 We will work this with CONDA.
@@ -62,6 +63,20 @@ Step 10: Now combine each frame to make a video
 
 
       (Note: fps can be changed according to use cases)
+
+
+The following is the low res video
+
+
+
+https://github.com/user-attachments/assets/4a37538b-775c-41e5-accf-b638c07f0fd9
+
+
+Now this is the enhanced Video
+
+
+
+https://github.com/user-attachments/assets/69442238-07ea-4d39-a0e3-560f65b68e06
 
 
 
