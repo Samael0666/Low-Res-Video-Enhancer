@@ -11,6 +11,7 @@ Open Anaconda Navigator and select Commad prompt.
 
 Clone the repository for the enhancing model setup
 Run 
+    
     git clone https:/github.com/xinntao/Real-ESRGAN.git
     
 Step 1: Creating a new Conda Environment
